@@ -1,4 +1,3 @@
-
 //variables and constants
 const gameBody = document.getElementById("game-body");
 const $lives = document.getElementById("lives");
@@ -94,3 +93,4 @@ clearInterval(timer);
 endGame("won");
 }
 }, 1000);
+
